@@ -3,7 +3,7 @@
 ### Clone this repo
 
 ```shell
-git clone https://github.com/networkpaul/laravel-docker-template.git
+git clone https://github.com/thecaringdeveloper/laravel-docker-boilerplate.git
 ```
 
 ###  Create laravel project
